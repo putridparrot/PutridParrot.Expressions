@@ -1,4 +1,6 @@
-﻿namespace PutridParrot.Expressions;
+﻿using System.Collections.Generic;
+
+namespace PutridParrot.Expressions;
 
 internal static class DictionaryExtensions
 {
